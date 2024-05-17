@@ -40,7 +40,7 @@ edit:
 and find and set spi section:
 
          dtparam=spi=on
-* Download the current repo: wget https://github.com/FuocomanSap/P4wnp1-ALOA-Menu-Reworked.git
+* Download the current repo: git clone https://github.com/FuocomanSap/P4wnp1-ALOA-Menu-Reworked.git
 
 ###### Note for i2c: (on gui.py)
 
